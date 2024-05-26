@@ -1,5 +1,8 @@
 # Botpress-AI-Chatbot
 
-interact with this AI Chatbot I made on Botpress for ThriveX [here](https://app.botpress.cloud/workspaces/wkspace_01HX6C0PVYK58EK5ADPP8TQ4A6/bots/deed9ff3-8d50-43f3-9c7e-cdeae024662d/chat)
+Interact with these 2 AI chatbots I made on Botpress for ThriveX each has its strengths and weaknesses:
 
-A simple AI Chatbot, find out more about what we do at [ThriveX](https://thrivex.store/)
+- [First](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=5b7ee18f-8974-422f-840e-142dc18f1b9e) This is a more guided approach and narrows down what the user is looking for, lessens the workload on AI
+- [Second](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=deed9ff3-8d50-43f3-9c7e-cdeae024662d) This is all AI, just the user and AI
+
+Please find out more about what we do at [ThriveX](https://thrivex.store/)
