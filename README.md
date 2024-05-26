@@ -1,4 +1,4 @@
-# Botpress-AI-Chatbot
+# Botpress-AI-Chatbots
 
 Interact with these 2 AI chatbots I made on Botpress for ThriveX each has its strengths and weaknesses:
 
